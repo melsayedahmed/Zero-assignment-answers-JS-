@@ -1,0 +1,29 @@
+/* 
+link of github 
+https://github.com/melsayedahmed
+Dont forget follow 
+
+link of Youtube Channel
+https://www.youtube.com/channel/UCo92JwtW5CbyN3XO6O0qocA
+Dont forget Subscribe
+ */
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Cairo&family=Open+Sans&family=Roboto&display=swap');
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+body div{
+    margin: 20px 0;
+}
+select{
+    padding: 10px 7px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
